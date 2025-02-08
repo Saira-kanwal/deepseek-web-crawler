@@ -2,6 +2,18 @@
 
 This project is a Python web crawler that collects product details from a Pharma website. It uses Crawl4AI to scrape data quickly and efficiently. The crawler uses a smart language model to extract the right information and saves it to a CSV file for easy use.
 
+## Tools
+
+![Alt Text](img.png)
+
+## My Learning
+
+While working on this project, I have gained valuable knowledge and skills, including:
+✅ Use DeepSeek, Crawl4AI, and Groq for powerful web scraping  
+✅ Tweak a prebuilt template to scrape any site effortlessly  
+✅ Extract leads and save them to an organized file  
+✅ Automate the process so you can scrape any website instantly
+
 ## Features
 
 - Asynchronous web crawling using [Crawl4AI](https://pypi.org/project/Crawl4AI/)
